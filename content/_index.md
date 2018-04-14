@@ -1,6 +1,6 @@
 +++
 description = "La comunidad de Javascript de Monteria"
-title = "Montería.Js"
+title = "Montería.JS"
 draft = false
 
 +++
