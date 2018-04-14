@@ -8,7 +8,7 @@ Paginate = 4
   RSSLink = "/index.xml"
   author = "MonteriaJs" # add your company name
   github = "MonteriaJS" # add your github profile name
-  twitter = "MonteriaJs" # add your twitter profile
+  twitter = "MonteriaJS" # add your twitter profile
   email = "hola@monteriajs.org"
 
 [[menu.main]]
