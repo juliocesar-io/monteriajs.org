@@ -1,0 +1,25 @@
+baseURL = "http://monteriajs.org/"
+languageCode = "es-co"
+title = "Montería.Js"
+theme = "kube"
+description = "La comunidad de Javascript de Monteria"
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "MonteriaJs" # add your company name
+  github = "MonteriaJS" # add your github profile name
+  twitter = "monteriajs" # add your twitter profile
+  email = "hola@monteriajs.org"
+
+[[menu.main]]
+    name = "Eventos"
+    weight = -100
+    url = "/#eventos"
+[[menu.main]]
+    name = "Sobre"
+    weight = -100
+    url = "/#sobre"
+[[menu.main]]
+    name = "Patrocinadores"
+    weight = -100
+    url = "/#patrocinadores"
